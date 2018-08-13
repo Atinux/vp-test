@@ -1,0 +1,11 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+  description: Page title
+  config:
+    required: true
